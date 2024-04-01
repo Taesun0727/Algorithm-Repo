@@ -21,27 +21,27 @@
 |------------|-------|-------------------------------------------------------------------|------------|-----|
 | 2024.04.01 | 18119 | [단어 암기](https://www.acmicpc.net/problem/18119)                    | 비트마스크      | G4  |
 | 2024.04.01 | 1034  | [램프](https://www.acmicpc.net/problem/1034)                        | 브루트포스      | G4  |
-| 2023.03.28 | 11942 | [다이어트](https://www.acmicpc.net/problem/11942)                     | 브루트포스      | G4  |
-| 2023.03.28 | 11037 | [중복 없는 수](https://www.acmicpc.net/problem/11037)                  | 이분탐색       | G4  |
-| 2023.03.28 | 1405  | [미친 로봇](https://www.acmicpc.net/problem/1405)                     | 백트래킹       | G4  |
-| 2023.03.28 | 22953 | [도도의 음식 준비](https://www.acmicpc.net/problem/22953)                | 이분탐색       | G4  |
-| 2023.03.19 | 2631  | [줄세우기](https://www.acmicpc.net/problem/2631)                      | 다이나믹 프로그래밍 | G4  |
-| 2023.02.02 | 2011  | [암호코드](https://www.acmicpc.net/problem/2011)                      | 다이나믹 프로그래밍 | G5  |
-| 2023.02.02 | 17218 | [비밀번호 만들기](https://www.acmicpc.net/problem/17218)                 | 문자열        | G4  |
-| 2023.02.01 | 14267 | [회사 문화 1](https://www.acmicpc.net/problem/14267)                  | 트리         | G4  |
-| 2023.02.01 | 18427 | [함께 블록 쌓기](https://www.acmicpc.net/problem/18427)                 | 배낭 문제      | G4  |
-| 2023.01.31 | 2617  | [구슬 찾기](https://www.acmicpc.net/problem/2617)                     | 플로이드 워셜    | G4  |
-| 2023.01.31 | 18223 | [민준이와 마산 그리고 건우](https://www.acmicpc.net/problem/18223)           | 데이크스트라     | G4  |
-| 2023.01.30 | 10942 | [팰린드롬?](https://www.acmicpc.net/problem/10942)                    | 다이나믹 프로그래밍 | G4  |
-| 2023.01.30 | 1915  | [가장 큰 정사각형](https://www.acmicpc.net/problem/1915)                 | 다이나믹 프로그래밍 | G4  |
-| 2023.01.29 | 3190  | [뱀](https://www.acmicpc.net/problem/3190)                         | 구현         | G4  |
-| 2023.01.25 | 17951 | [흩날리는 시험지 속에서 내 평점이 느껴진거야](https://www.acmicpc.net/problem/17951) | 이분탐색       | G4  |
-| 2023.01.25 | 20917 | [사회적 거리 두기](https://www.acmicpc.net/problem/20917)                | 이분탐색       | G4  |
-| 2023.01.24 | 13164 | [행복 유치원](https://www.acmicpc.net/problem/13164)                   | 그리디        | G5  |
-| 2023.01.24 | 2212  | [센서](https://www.acmicpc.net/problem/2212)                        | 그리디        | G5  |
-| 2023.01.23 | 2573  | [빙산](https://www.acmicpc.net/problem/2573)                        | 넓이 우선 탐색   | G4  |
-| 2023.01.23 | 2458  | [키 순서](https://www.acmicpc.net/problem/2458)                      | 플로이드 워셜    | G4  |
-| 2023.01.22 | 17609 | [회문](https://www.acmicpc.net/problem/17609)                       | 문자열        | G5  |
+| 2024.03.28 | 11942 | [다이어트](https://www.acmicpc.net/problem/11942)                     | 브루트포스      | G4  |
+| 2024.03.28 | 11037 | [중복 없는 수](https://www.acmicpc.net/problem/11037)                  | 이분탐색       | G4  |
+| 2024.03.28 | 1405  | [미친 로봇](https://www.acmicpc.net/problem/1405)                     | 백트래킹       | G4  |
+| 2024.03.28 | 22953 | [도도의 음식 준비](https://www.acmicpc.net/problem/22953)                | 이분탐색       | G4  |
+| 2024.03.19 | 2631  | [줄세우기](https://www.acmicpc.net/problem/2631)                      | 다이나믹 프로그래밍 | G4  |
+| 2024.02.02 | 2011  | [암호코드](https://www.acmicpc.net/problem/2011)                      | 다이나믹 프로그래밍 | G5  |
+| 2024.02.02 | 17218 | [비밀번호 만들기](https://www.acmicpc.net/problem/17218)                 | 문자열        | G4  |
+| 2024.02.01 | 14267 | [회사 문화 1](https://www.acmicpc.net/problem/14267)                  | 트리         | G4  |
+| 2024.02.01 | 18427 | [함께 블록 쌓기](https://www.acmicpc.net/problem/18427)                 | 배낭 문제      | G4  |
+| 2024.01.31 | 2617  | [구슬 찾기](https://www.acmicpc.net/problem/2617)                     | 플로이드 워셜    | G4  |
+| 2024.01.31 | 18223 | [민준이와 마산 그리고 건우](https://www.acmicpc.net/problem/18223)           | 데이크스트라     | G4  |
+| 2024.01.30 | 10942 | [팰린드롬?](https://www.acmicpc.net/problem/10942)                    | 다이나믹 프로그래밍 | G4  |
+| 2024.01.30 | 1915  | [가장 큰 정사각형](https://www.acmicpc.net/problem/1915)                 | 다이나믹 프로그래밍 | G4  |
+| 2024.01.29 | 3190  | [뱀](https://www.acmicpc.net/problem/3190)                         | 구현         | G4  |
+| 2024.01.25 | 17951 | [흩날리는 시험지 속에서 내 평점이 느껴진거야](https://www.acmicpc.net/problem/17951) | 이분탐색       | G4  |
+| 2024.01.25 | 20917 | [사회적 거리 두기](https://www.acmicpc.net/problem/20917)                | 이분탐색       | G4  |
+| 2024.01.24 | 13164 | [행복 유치원](https://www.acmicpc.net/problem/13164)                   | 그리디        | G5  |
+| 2024.01.24 | 2212  | [센서](https://www.acmicpc.net/problem/2212)                        | 그리디        | G5  |
+| 2024.01.23 | 2573  | [빙산](https://www.acmicpc.net/problem/2573)                        | 넓이 우선 탐색   | G4  |
+| 2024.01.23 | 2458  | [키 순서](https://www.acmicpc.net/problem/2458)                      | 플로이드 워셜    | G4  |
+| 2024.01.22 | 17609 | [회문](https://www.acmicpc.net/problem/17609)                       | 문자열        | G5  |
 | 2023.12.18 | 23328 | [마을 구하기](https://www.acmicpc.net/problem/23328)                   | 문자열        | G2  |
 | 2023.11.09 | 2800  | [괄호 제거](https://www.acmicpc.net/problem/2800)                     | 문자열        | G5  |
 | 2023.11.08 | 1967  | [트리의 지름](https://www.acmicpc.net/problem/2473)                    | 트리         | G4  |
