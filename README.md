@@ -19,14 +19,16 @@
 
 | 날짜         | 문제    | 제목                                                                                                                              | 유형         | 난이도 |
 |------------|-------|---------------------------------------------------------------------------------------------------------------------------------|------------|-----|
-| 2024.04.22 | 1052  | [물병](https://www.acmicpc.net/problem/1052)                                                                                      | 그리디         | G5  |
-| 2024.04.22 | 2565  | [전깃줄](https://www.acmicpc.net/problem/2565)                                                                                     | 다이나믹 프로그래밍         | G5  |
-| 2024.04.21 | 1911  | [흙길 보수하기](https://www.acmicpc.net/problem/1911)                                                                                 | 그리디         | G5  |
+| 2024.04.23 | 12851 | [숨바꼭질 2](https://www.acmicpc.net/problem/12851)                                                                                  | 너비 우선 탐색    | G5  |
+| 2024.04.23 | 10159 | [저울](https://www.acmicpc.net/problem/10159)                                                                                      | 깊이 우선 탐색     | G5  |
+| 2024.04.22 | 1052  | [물병](https://www.acmicpc.net/problem/1052)                                                                                      | 그리디        | G5  |
+| 2024.04.22 | 2565  | [전깃줄](https://www.acmicpc.net/problem/2565)                                                                                     | 다이나믹 프로그래밍 | G5  |
+| 2024.04.21 | 1911  | [흙길 보수하기](https://www.acmicpc.net/problem/1911)                                                                                 | 그리디        | G5  |
 | 2024.04.20 | 23835 | [어떤 우유의 배달목록 (Easy)](https://www.acmicpc.net/problem/23835)                                                                     | 트리         | G4  |
 | 2024.04.19 | 13397 | [구간 나누기 2](https://www.acmicpc.net/problem/13397)                                                                               | 이분탐색       | G4  |
 | 2024.04.19 | 20955 | [민서의 응급 수술](https://www.acmicpc.net/problem/20955)                                                                              | 트리         | G4  |
-| 2024.04.18 | 5913  | [준규와 사과](https://www.acmicpc.net/problem/5913)                                                                                  | 브루트포스         | G4  |
-| 2024.04.18 | 16958 | [텔레포트](https://www.acmicpc.net/problem/16958)                                                                                   | 브루트포스         | G4  |
+| 2024.04.18 | 5913  | [준규와 사과](https://www.acmicpc.net/problem/5913)                                                                                  | 브루트포스      | G4  |
+| 2024.04.18 | 16958 | [텔레포트](https://www.acmicpc.net/problem/16958)                                                                                   | 브루트포스      | G4  |
 | 2024.04.13 | X     | [루돌프의 반란](https://www.codetree.ai/training-field/frequent-problems/problems/rudolph-rebellion?page=1&pageSize=20)               | 구현         | G2  |
 | 2024.04.13 | X     | [코드트리 메신저](https://www.codetree.ai/training-field/frequent-problems/problems/codetree-messenger/description?page=1&pageSize=20) | 구현         | G2  |
 | 2024.04.07 | 20058 | [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)                                                                          | 구현         | G3  |
@@ -55,7 +57,7 @@
 | 2024.01.25 | 20917 | [사회적 거리 두기](https://www.acmicpc.net/problem/20917)                                                                              | 이분탐색       | G4  |
 | 2024.01.24 | 13164 | [행복 유치원](https://www.acmicpc.net/problem/13164)                                                                                 | 그리디        | G5  |
 | 2024.01.24 | 2212  | [센서](https://www.acmicpc.net/problem/2212)                                                                                      | 그리디        | G5  |
-| 2024.01.23 | 2573  | [빙산](https://www.acmicpc.net/problem/2573)                                                                                      | 넓이 우선 탐색   | G4  |
+| 2024.01.23 | 2573  | [빙산](https://www.acmicpc.net/problem/2573)                                                                                      | 너비 우선 탐색   | G4  |
 | 2024.01.23 | 2458  | [키 순서](https://www.acmicpc.net/problem/2458)                                                                                    | 플로이드 워셜    | G4  |
 | 2024.01.22 | 17609 | [회문](https://www.acmicpc.net/problem/17609)                                                                                     | 문자열        | G5  |
 | 2023.12.18 | 23328 | [마을 구하기](https://www.acmicpc.net/problem/23328)                                                                                 | 문자열        | G2  |
@@ -71,5 +73,5 @@
 | 2023.11.02 | 11437 | [LCA](https://www.acmicpc.net/problem/11437)                                                                                    | 트리         | G3  |
 | 2023.11.02 | 19542 | [전단지 돌리기](https://www.acmicpc.net/problem/19542)                                                                                | 트리         | G3  |
 | 2023.11.01 | 9466  | [텀 프로젝트](https://www.acmicpc.net/problem/9466)                                                                                  | 깊이 우선 탐색   | G3  |
-| 2023.11.01 | 2206  | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)                                                                              | 넓이 우선 탐색   | G3  |
+| 2023.11.01 | 2206  | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)                                                                              | 너비 우선 탐색   | G3  |
 | 2023.10.31 | 15684 | [사다리 조작](https://www.acmicpc.net/problem/15684)                                                                                 | 브루트포스      | G3  |
