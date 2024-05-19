@@ -19,13 +19,15 @@
 
 | 날짜         | 문제     | 제목                                                                                                                              | 유형         | 난이도 |
 |------------|--------|---------------------------------------------------------------------------------------------------------------------------------|------------|-----|
-| 2024.05.18 | 178870 | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)                                                | 투 포인터         | LV2 |
+| 2024.05.19 | 172927 | [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)                                                       | 그리디        | LV2 |
+| 2024.05.19 | 176962 | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)                                                     | 구현         | LV2 |
+| 2024.05.18 | 178870 | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)                                                | 투 포인터      | LV2 |
 | 2024.05.18 | 181187 | [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)                                                | 구현         | LV2 |
 | 2024.05.10 | 14719  | [빗물](https://www.acmicpc.net/problem/14719)                                                                                     | 구현         | G5  |
 | 2024.05.09 | 9519   | [졸려](https://www.acmicpc.net/problem/9519)                                                                                      | 구현         | G5  |
 | 2024.05.09 | 1334   | [다음 팰린드롬 수](https://www.acmicpc.net/problem/1334)                                                                               | 구현         | G5  |
 | 2024.05.08 | 2504   | [괄호의 값](https://www.acmicpc.net/problem/2504)                                                                                   | 구현         | G5  |
-| 2024.05.08 | 14503  | [로봇 청소기](https://www.acmicpc.net/problem/14503)                                                                                 | 구현       | G5  |
+| 2024.05.08 | 14503  | [로봇 청소기](https://www.acmicpc.net/problem/14503)                                                                                 | 구현         | G5  |
 | 2024.05.07 | 27977  | [킥보드로 등교하기](https://www.acmicpc.net/problem/27977)                                                                              | 이분탐색       | G4  |
 | 2024.05.04 | 15971  | [두 로봇](https://www.acmicpc.net/problem/15971)                                                                                   | 깊이 우선 탐색   | G4  |
 | 2024.04.24 | 1504   | [특정한 최단 경로](https://www.acmicpc.net/problem/1504)                                                                               | 데이크스트라     | G4  |
