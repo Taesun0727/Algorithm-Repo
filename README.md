@@ -19,6 +19,8 @@
 
 | 날짜         | 문제     | 제목                                                                                                                              | 유형         | 난이도 |
 |------------|--------|---------------------------------------------------------------------------------------------------------------------------------|------------|-----|
+| 2024.05.20 | 159993 | [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)                                                       | 너비 우선 탐색     | LV2 |
+| 2024.05.20 | 169199 | [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)                                                      | 너비 우선 탐색     | LV2 |
 | 2024.05.19 | 172927 | [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)                                                       | 그리디        | LV2 |
 | 2024.05.19 | 176962 | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)                                                     | 구현         | LV2 |
 | 2024.05.18 | 178870 | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)                                                | 투 포인터      | LV2 |
