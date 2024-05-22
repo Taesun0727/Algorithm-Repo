@@ -19,8 +19,10 @@
 
 | 날짜         | 문제     | 제목                                                                                                                              | 유형         | 난이도 |
 |------------|--------|---------------------------------------------------------------------------------------------------------------------------------|------------|-----|
+| 2024.05.22 | 154539 | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)                                                       | 구현         | LV2 |
+| 2024.05.22 | 154540 | [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)                                                      | 깊이 우선 탐색   | LV2 |
 | 2024.05.21 | 155651 | [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)                                                       | 누적합        | LV2 |
-| 2024.05.21 | 160585 | [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)                                                       | 구현         | LV2 |
+| 2024.05.21 | 160585 | [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)                                                  | 구현         | LV2 |
 | 2024.05.20 | 159993 | [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)                                                       | 너비 우선 탐색   | LV2 |
 | 2024.05.20 | 169199 | [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)                                                      | 너비 우선 탐색   | LV2 |
 | 2024.05.19 | 172927 | [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)                                                       | 그리디        | LV2 |
