@@ -19,6 +19,7 @@
 
 | 날짜         | 문제     | 제목                                                                                                                              | 유형         | 난이도 |
 |------------|--------|---------------------------------------------------------------------------------------------------------------------------------|------------|-----|
+| 2024.05.25 | 150369 | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)                                                 | 그리디        | LV2 |
 | 2024.05.24 | 140107 | [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)                                                        | 구현         | LV2 |
 | 2024.05.24 | 142085 | [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)                                                      | 구현         | LV2 |
 | 2024.05.23 | 148653 | [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)                                                   | 구현         | LV2 |
