@@ -19,6 +19,8 @@
 
 | 날짜         | 문제     | 제목                                                                                                                              | 유형         | 난이도 |
 |------------|--------|---------------------------------------------------------------------------------------------------------------------------------|------------|-----|
+| 2024.05.27 | 131130 | [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)                                                   | 구현         | LV2 |
+| 2024.05.27 | 132265 | [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)                                                    | 구현         | LV2 |
 | 2024.05.26 | 138476 | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)                                                       | 구현         | LV2 |
 | 2024.05.26 | 131704 | [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)                                                        | 구현         | LV2 |
 | 2024.05.25 | 150369 | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)                                                 | 그리디        | LV2 |
