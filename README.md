@@ -19,6 +19,8 @@
 
 | 날짜         | 문제     | 제목                                                                                                                              | 유형         | 난이도 |
 |------------|--------|---------------------------------------------------------------------------------------------------------------------------------|------------|-----|
+| 2024.05.28 | 87946 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)                                                          | 완전탐색       | LV2 |
+| 2024.05.28 | 131127 | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)                                                       | 구현         | LV2 |
 | 2024.05.27 | 131130 | [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)                                                   | 구현         | LV2 |
 | 2024.05.27 | 132265 | [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)                                                    | 구현         | LV2 |
 | 2024.05.26 | 138476 | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)                                                       | 구현         | LV2 |
