@@ -19,6 +19,7 @@
 
 | 날짜         | 문제     | 제목                                                                                                                              | 유형         | 난이도 |
 |------------|--------|---------------------------------------------------------------------------------------------------------------------------------|------------|-----|
+| 2024.06.03 | 150365 | [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)                                                          | 깊이 우선 탐색   | LV3 |
 | 2024.05.31 | 258709 | [주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709)                                                          | 구현         | LV3 |
 | 2024.05.30 | 12904  | [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)                                                          | 완전탐색       | LV3 |
 | 2024.05.29 | 131702 | [고고학 최고의 발견](https://school.programmers.co.kr/learn/courses/30/lessons/131702)                                                          | 그리디        | LV3 |
