@@ -19,6 +19,8 @@
 
 | 날짜         | 문제     | 제목                                                                                                                              | 유형         | 난이도 |
 |------------|--------|---------------------------------------------------------------------------------------------------------------------------------|------------|-----|
+| 2024.06.11 | 12907 | [거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907)                                                          | 다이나믹 프로그래밍    | LV3 |
+| 2024.06.11 | 49189 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)                                                          | 너비 우선 탐색      | LV3 |
 | 2024.06.05 | 152995 | [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995)                                                          | 그리디        | LV3 |
 | 2024.06.04 | 214288 | [상담원 인원](https://school.programmers.co.kr/learn/courses/30/lessons/214288)                                                          | 그리디        | LV3 |
 | 2024.06.03 | 150365 | [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)                                                          | 깊이 우선 탐색   | LV3 |
