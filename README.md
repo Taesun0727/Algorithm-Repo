@@ -19,14 +19,15 @@
 
 | 날짜         | 문제     | 제목                                                                                                                              | 유형         | 난이도 |
 |------------|--------|---------------------------------------------------------------------------------------------------------------------------------|------------|-----|
-| 2024.06.11 | 12907 | [거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907)                                                          | 다이나믹 프로그래밍    | LV3 |
-| 2024.06.11 | 49189 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)                                                          | 너비 우선 탐색      | LV3 |
-| 2024.06.05 | 152995 | [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995)                                                          | 그리디        | LV3 |
-| 2024.06.04 | 214288 | [상담원 인원](https://school.programmers.co.kr/learn/courses/30/lessons/214288)                                                          | 그리디        | LV3 |
-| 2024.06.03 | 150365 | [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)                                                          | 깊이 우선 탐색   | LV3 |
-| 2024.05.31 | 258709 | [주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709)                                                          | 구현         | LV3 |
-| 2024.05.30 | 12904  | [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)                                                          | 완전탐색       | LV3 |
-| 2024.05.29 | 131702 | [고고학 최고의 발견](https://school.programmers.co.kr/learn/courses/30/lessons/131702)                                                          | 그리디        | LV3 |
+| 2024.06.12 | 43238 | [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)                                                         | 이분탐색       | LV3 |
+| 2024.06.11 | 12907 | [거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907)                                                         | 다이나믹 프로그래밍 | LV3 |
+| 2024.06.11 | 49189 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)                                                      | 너비 우선 탐색   | LV3 |
+| 2024.06.05 | 152995 | [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995)                                                        | 그리디        | LV3 |
+| 2024.06.04 | 214288 | [상담원 인원](https://school.programmers.co.kr/learn/courses/30/lessons/214288)                                                      | 그리디        | LV3 |
+| 2024.06.03 | 150365 | [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)                                                   | 깊이 우선 탐색   | LV3 |
+| 2024.05.31 | 258709 | [주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709)                                                     | 구현         | LV3 |
+| 2024.05.30 | 12904  | [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)                                                    | 완전탐색       | LV3 |
+| 2024.05.29 | 131702 | [고고학 최고의 발견](https://school.programmers.co.kr/learn/courses/30/lessons/131702)                                                  | 그리디        | LV3 |
 | 2024.05.28 | 87946  | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)                                                          | 완전탐색       | LV2 |
 | 2024.05.28 | 131127 | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)                                                       | 구현         | LV2 |
 | 2024.05.27 | 131130 | [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)                                                   | 구현         | LV2 |
