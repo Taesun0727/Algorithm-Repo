@@ -19,6 +19,7 @@
 
 | 날짜         | 문제     | 제목                                                                                                                              | 유형         | 난이도 |
 |------------|--------|---------------------------------------------------------------------------------------------------------------------------------|------------|-----|
+| 2024.06.13 | 60063 | [블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)                                                         | 너비 우선 탐색       | LV3 |
 | 2024.06.12 | 43238 | [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)                                                         | 이분탐색       | LV3 |
 | 2024.06.11 | 12907 | [거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907)                                                         | 다이나믹 프로그래밍 | LV3 |
 | 2024.06.11 | 49189 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)                                                      | 너비 우선 탐색   | LV3 |
